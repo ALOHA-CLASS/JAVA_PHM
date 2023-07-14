@@ -14,7 +14,7 @@ public class StaticMember {
 	static int a;
 	static int b;
 	int c;
-	static final  double PI = 3.141592;
+	static final double PI = 3.141592;
 	
 	// static 메소드
 	public static int sum(int x, int y) {
